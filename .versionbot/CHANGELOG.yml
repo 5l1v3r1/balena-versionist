@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update dependencies
+      hash: ade5244a0fb18193c44afaa38b64aa33b1b9c54f
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Pagan Gazzard
+  version: 0.13.0
+  date: 2020-06-26T15:18:54.695Z
+- commits:
     - subject: Add TS declaration file
       hash: 7415547fc81b1adb84328d912fe09f7bfcf20722
       body: ''
